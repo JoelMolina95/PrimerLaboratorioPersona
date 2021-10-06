@@ -1,0 +1,14 @@
+C:\Users\Marvi\Documents\GitHub\PrimerLaboratorioPersona\Persona\Persona\obj\Debug\Persona.csproj.AssemblyReference.cache
+C:\Users\Marvi\Documents\GitHub\PrimerLaboratorioPersona\Persona\Persona\obj\Debug\Persona.csproj.CoreCompileInputs.cache
+C:\Users\Marvi\Documents\GitHub\PrimerLaboratorioPersona\Persona\Persona\bin\Debug\Persona.exe.config
+C:\Users\Marvi\Documents\GitHub\PrimerLaboratorioPersona\Persona\Persona\bin\Debug\Persona.exe
+C:\Users\Marvi\Documents\GitHub\PrimerLaboratorioPersona\Persona\Persona\bin\Debug\Persona.pdb
+C:\Users\Marvi\Documents\GitHub\PrimerLaboratorioPersona\Persona\Persona\obj\Debug\Persona.exe
+C:\Users\Marvi\Documents\GitHub\PrimerLaboratorioPersona\Persona\Persona\obj\Debug\Persona.pdb
+C:\Users\Joel Antonio Molina\Documents\GitHub\PrimerLaboratorioPersona\Persona\Persona\bin\Debug\Persona.exe.config
+C:\Users\Joel Antonio Molina\Documents\GitHub\PrimerLaboratorioPersona\Persona\Persona\bin\Debug\Persona.exe
+C:\Users\Joel Antonio Molina\Documents\GitHub\PrimerLaboratorioPersona\Persona\Persona\bin\Debug\Persona.pdb
+C:\Users\Joel Antonio Molina\Documents\GitHub\PrimerLaboratorioPersona\Persona\Persona\obj\Debug\Persona.csproj.AssemblyReference.cache
+C:\Users\Joel Antonio Molina\Documents\GitHub\PrimerLaboratorioPersona\Persona\Persona\obj\Debug\Persona.csproj.CoreCompileInputs.cache
+C:\Users\Joel Antonio Molina\Documents\GitHub\PrimerLaboratorioPersona\Persona\Persona\obj\Debug\Persona.exe
+C:\Users\Joel Antonio Molina\Documents\GitHub\PrimerLaboratorioPersona\Persona\Persona\obj\Debug\Persona.pdb
